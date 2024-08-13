@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Hashan Pasindu**  <img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="260" align="right"/>
+- :credit_card: My full name is **Hashan Pasindu**  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently final year student at **Colombo University (BIT)**
 - :books: My major is **Software Engineering**
 - :sweat_smile: I'm a newbie in coding, know Javascript and Java language. Now I'm focus on learning Web Development.
